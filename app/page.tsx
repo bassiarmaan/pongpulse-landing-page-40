@@ -268,7 +268,7 @@ export default function Home() {
                 <p className="text-muted-foreground mb-4">
                   Advanced vision models to detect and analyze ball spin using patterned balls.
                 </p>
-                <div className="text-sm text-blue-600 font-medium">Coming Q3 2023</div>
+                <div className="text-sm text-blue-600 font-medium">Coming Q3 2025</div>
               </div>
 
               <div className="border border-blue-100 rounded-xl p-8 transition-all hover:border-blue-300 hover:shadow-md">
@@ -276,7 +276,7 @@ export default function Home() {
                 <p className="text-muted-foreground mb-4">
                   Get personalized drill suggestions based on your weak zones and improvement areas.
                 </p>
-                <div className="text-sm text-blue-600 font-medium">Coming Q4 2023</div>
+                <div className="text-sm text-blue-600 font-medium">Coming Q4 2025</div>
               </div>
 
               <div className="border border-blue-100 rounded-xl p-8 transition-all hover:border-blue-300 hover:shadow-md">
@@ -284,7 +284,7 @@ export default function Home() {
                 <p className="text-muted-foreground mb-4">
                   Special features for club coaches and training academies to track multiple players.
                 </p>
-                <div className="text-sm text-blue-600 font-medium">Coming Q1 2024</div>
+                <div className="text-sm text-blue-600 font-medium">Coming Q1 2026</div>
               </div>
             </div>
           </div>
@@ -328,7 +328,7 @@ export default function Home() {
                 Contact Us
               </Link>
             </div>
-            <div className="text-sm text-muted-foreground">© 2023 PongPulse. All rights reserved.</div>
+            <div className="text-sm text-muted-foreground">© 2025 PongPulse. All rights reserved.</div>
           </div>
         </div>
       </footer>
